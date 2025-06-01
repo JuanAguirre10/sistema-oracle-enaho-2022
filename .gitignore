@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/storage/logs/*.log
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+.env.example
+.DS_Store
+Thumbs.db
+*.csv
+/database/seeds/
+/database/migrations/
+composer.lock
